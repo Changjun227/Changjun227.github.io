@@ -153,9 +153,9 @@ a:hover
 {
     height: 0;
     
-    -webkit-transition: .6s ease .3s;
-         -o-transition: .6s ease .3s;
-            transition: .6s ease .3s;
+    -webkit-transition: .8s ease .3s;
+         -o-transition: .8s ease .3s;
+            transition: .8s ease .3s;
 }
 
 .preloader .spinner
