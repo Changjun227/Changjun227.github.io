@@ -132,7 +132,7 @@ a:hover
 
 
 /** 2. Preloader
-******************************************************************
+******************************************************************/
 
 .preloader
 {
@@ -157,7 +157,7 @@ a:hover
          -o-transition: .6s ease .3s;
             transition: .6s ease .3s;
 }
-
+/*
 .preloader .spinner
 {
     position: absolute;
@@ -179,7 +179,7 @@ a:hover
     border-radius: 100%;
     background-color: #111;
 }
-
+*/
 .preloader.hide-preloader .spinner
 {
     opacity: 0;
@@ -218,7 +218,7 @@ a:hover
         opacity: 0;
     }
 }
-*/
+
 
 
 /** 3. Background Content
